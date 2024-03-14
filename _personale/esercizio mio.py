@@ -9,5 +9,9 @@ print("saldo al secondo anno è:" , interesse1)
 print("saldo al terzo anno è:" , interesse2)
 print("saldo al quarto anno è:" , interesse3)
 
+saldo_finale = saldo_iniziale * INTERESSE ** 3
+print(saldo_finale)
+
+
 
 
